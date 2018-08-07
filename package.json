@@ -1,5 +1,5 @@
 {
-  "name": "AjaxGrid",
+  "name": "ajaxgrid",
   "version": "1.0.0",
   "description": "JavaScript grid which allows editing data in the AJAX manner",
   "main": "AjaxGrid.js",
