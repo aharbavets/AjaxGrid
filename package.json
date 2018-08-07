@@ -1,0 +1,9 @@
+{
+  "name": "AjaxGrid",
+  "version": "1.0.0",
+  "description": "JavaScript grid which allows editing data in the AJAX manner",
+  "main": "AjaxGrid.js",
+  "repository": "https://gorsash@github.com/gorsash/AjaxGrid.git",
+  "author": "sash <gorsash@gmail.com>",
+  "license": "MIT"
+}
